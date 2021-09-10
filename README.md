@@ -1,1 +1,1 @@
-https://rajaditya28.github.io/Simon%20Game/
+https://rajaditya28.github.io/SimonGame/
