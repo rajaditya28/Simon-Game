@@ -1,4 +1,4 @@
-https://rajaditya28.github.io/SimonGame/
+https://rajaditya28.github.io/Simon-Game/
 
 Game of memory skill that requires a user to repeat the
 sequence shown. If the user succeeds, the series
